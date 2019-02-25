@@ -6,21 +6,8 @@
 
 	<documentation>UI5 library: augero.constants</documentation>
 
-	<dependencies>
-		<dependency>
-			<libraryName>sap.ui.core</libraryName>
-		</dependency>
-	</dependencies>
+	
 
-	<appData>
-		<!-- excludes for the JSDoc -->
-		<jsdoc xmlns="http://www.sap.com/ui5/buildext/jsdoc">
-			<exclude name="ui5lab.geometry.js."/>
-		</jsdoc>
-		<!-- excludes for the JSCoverage -->
-		<jscoverage xmlns="http://www.sap.com/ui5/buildext/jscoverage">
-			<exclude name="ui5lab.geometry.js."/>
-		</jscoverage>
-	</appData>
+	
 
 </library>
