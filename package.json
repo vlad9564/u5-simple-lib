@@ -21,11 +21,7 @@
     "build": "ui5 build"
   },
   "dependencies": {
-    "@openui5/sap.f": "^1.58.4",
-    "@openui5/sap.m": "^1.58.4",
-    "@openui5/sap.ui.core": "^1.58.4",
-    "@openui5/sap.ui.layout": "^1.58.4",
-    "@openui5/themelib_sap_belize": "^1.58.4"
+   
   },
   "devDependencies": {
     "eslint": "^5.2.0",
