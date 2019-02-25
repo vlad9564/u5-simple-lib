@@ -23,7 +23,7 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 	// delegate further initialization of this library to the Core
 	sap.ui.getCore().initLibrary({
 		name : "augero.constants",
-		dependencies : ["sap.ui.core"],
+		dependencies : [],
 		types: [
 			
 		],
