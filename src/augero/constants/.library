@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <library xmlns="http://www.sap.com/sap.ui.library.xsd">
 
-	<name>ui5lab.geometry</name>
+	<name>augero.constants</name>
 	<version>${version}</version>
 
-	<documentation>UI5 library: ui5lab.geometry</documentation>
+	<documentation>UI5 library: augero.constants</documentation>
 
 	<dependencies>
 		<dependency>

@@ -8,7 +8,7 @@
   },
   "homepage": "https://ui5lab.github.io/UI5Lab-app-simple/index.html",
   "ui5lab": {
-    "namespace": "ui5lab.geometry",
+    "namespace": "augero.constants",
     "icon": "database",
     "displayName": "Geometry"
   },

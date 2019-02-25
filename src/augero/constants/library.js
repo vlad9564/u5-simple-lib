@@ -14,7 +14,7 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 	 * An example library containing geometrical controls
 	 *
 	 * @namespace
-	 * @name ui5lab.geometry
+	 * @name augero.constants
 	 * @public
 	 */
 
@@ -22,7 +22,7 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 
 	// delegate further initialization of this library to the Core
 	sap.ui.getCore().initLibrary({
-		name : "ui5lab.geometry",
+		name : "augero.constants",
 		dependencies : ["sap.ui.core"],
 		types: [
 			
@@ -46,6 +46,6 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 	
 
 
-	return ui5lab.geometry;
+	return augero.constants;
 
 });
