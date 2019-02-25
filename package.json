@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "Example UI5Lab library containing geometrical controls",
   "homepage": "https://ui5lab.github.io/UI5Lab-app-simple/index.html",
-  "ui5lab": {
-    "namespace": "augero.constants",
-    "icon": "database",
-    "displayName": "Geometry"
-  },
   "license": "Apache-2.0",
   "private": false,
   "scripts": {
