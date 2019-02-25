@@ -1,13 +1,11 @@
 {
   "name": "augero-constants",
   "version": "1.0.0",
-  "description": "Example UI5Lab library containing geometrical controls",
-  "homepage": "https://ui5lab.github.io/UI5Lab-app-simple/index.html",
+  "description": "augero constants library containing constants",
   "license": "Apache-2.0",
   "private": false,
   "scripts": {
-    "test": "echo \"Error: no test specified. Please add some.\" && exit 1",
-    "start": "ui5 serve --open ./test-resources/ui5lab/browser/index.html",
+ 
     "build": "ui5 build"
   },
   "dependencies": {
