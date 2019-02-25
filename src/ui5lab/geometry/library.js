@@ -25,13 +25,11 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 		name : "ui5lab.geometry",
 		dependencies : ["sap.ui.core"],
 		types: [
-			"ui5lab.geometry.SquareType"
+			
 		],
 		interfaces: [],
 		controls: [
-			"ui5lab.geometry.Square",
-			"ui5lab.geometry.Circle",
-			"ui5lab.geometry.Triangle"
+			
 		],
 		elements: [],
 		noLibraryCSS: false,
@@ -45,21 +43,7 @@ sap.ui.define(['jquery.sap.global', 'sap/ui/core/library'],
 	 * @enum {string}
 	 * @public
 	 */
-	ui5lab.geometry.ShapeType = {
-
-		/**
-		 * A value for squares with round corners
-		 * @public
-		 */
-		RoundCorners : "RoundCorners",
-
-		/**
-		 * A value for squares with angled corners
-		 * @public
-		 */
-		AngledCorners : "AngledCorners"
-
-	};
+	
 
 
 	return ui5lab.geometry;
