@@ -4,8 +4,11 @@
   "description": "augero constants library containing constants",
   "license": "Apache-2.0",
   "private": false,
+  "repository": "https://github.com/vlad9564/u5-simple-lib.git",
   "scripts": {
- 
+ "publishConfig": {
+  "registry": "https://cernerrepos.net/api/npm/npm"
+}
     "build": "ui5 build"
   },
   "dependencies": {
