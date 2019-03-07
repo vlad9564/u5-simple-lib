@@ -1,6 +1,6 @@
 {
   "name": "augero-constants",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "augero constants library containing constants",
   "license": "Apache-2.0",
   "private": false,
